@@ -10,7 +10,7 @@
 * прописать cd scripts
 * запустить батник activate.bat
 * установить джанго и pillow - pip install django / pip install pillow
-* прописать django-admin startproject <имя проекта> - советую назвать egor, чтобы не возникало непридвиденных ошибок>
+* прописать django-admin startproject <имя проекта> - советую назвать egor, чтобы не возникало непридвиденных ошибок
 * прописать cd egor
 * прописать python manage.py runserver - и проверить, что сервер работает и нет ошибок, а затем отключить (ctr+c)
 * вернуться в директорию scripts - cd..
